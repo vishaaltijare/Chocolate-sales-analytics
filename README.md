@@ -9,9 +9,20 @@ Built a Power BI sales analytics solution for a chocolate company, built on 13 m
 The aim was to provide stakeholders with a single dashboard view of sales performance, profitability, and shipment behavior; enable month-over-month and year-over-year comparisons; support drill-down by product, salesperson, and region; and highlight low-volume shipments for operational improvement.
 
 📌 **Attached Files for Reference**
+     
+
+
+**Dashboard**
 
 📷 ![Dashboard](Screenshots/Dashboard.jpg)  
+
+
+**Data Model View**
+
 📷 ![Model](Screenshots/Model.jpg)  
+
+**Dataset**
+
 📊 [ac-sample-data.xlsx](Dataset/ac-sample-data.xlsx)
 
 **Key Technical Achievements**
