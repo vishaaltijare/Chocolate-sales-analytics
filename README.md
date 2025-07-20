@@ -1,4 +1,4 @@
-# Chocolate-sales-analytics
+**Chocolate-sales-analytics**
 
 **Project Overview**
 
@@ -8,9 +8,15 @@ Built a Power BI sales analytics solution for a chocolate company, built on 13 m
 
 The aim was to provide stakeholders with a single dashboard view of sales performance, profitability, and shipment behavior; enable month-over-month and year-over-year comparisons; support drill-down by product, salesperson, and region; and highlight low-volume shipments for operational improvement.
 
+📌 **Attached Files for Reference**
+
+📷 ![Dashboard Screenshot](Screenshots/Dashboard.png)  
+📷 ![Model Screenshot](Screenshots/Model.png)  
+📊 [Download ac-sample-data.xlsx](Dataset/ac-sample-data.xlsx)
+
 **Key Technical Achievements**
 
-Designed and deployed a star-schema in Power BI linking one fact (Shipments) and four dimension tables. Developed more than 12 DAX measures—including total sales, profit %,  MoM/YoY calculations, and low-box shipment flags. Implemented trend charts, bookmark navigation, conditional formatting to enhance interactivity and usability.
+Designed and deployed a star-schema in Power BI linking one fact (Shipments) and four dimension tables. Developed more than 12 DAX measures—including total sales, profit %, MoM/YoY calculations, and low-box shipment flags. Implemented trend charts, bookmark navigation, conditional formatting to enhance interactivity and usability.
 
 **Key Metrics and Insights**
 
@@ -20,6 +26,6 @@ The dashboard is built on the data having $34 M in total revenue and 6,000+ ship
 
 Gained mastery of star-schema modeling and advanced DAX for business intelligence. Enhanced skills in creating dynamic reports using field parameters, bookmarks, and custom tooltips. Learned best practices for report design, stakeholder-focused dashboarding, and deploying solutions via Power BI Service.
 
-**Interactive dashboard link**
+**Interactive Dashboard Link**
 
-https://app.powerbi.com/view?r=eyJrIjoiN2M3ODhkMmYtNjI4YS00NTA5LTgyYzgtZTk0ZWRmMWJlNGJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+👉 [Click here to view Dashboard](https://app.powerbi.com/view?r=eyJrIjoiN2M3ODhkMmYtNjI4YS00NTA5LTgyYzgtZTk0ZWRmMWJlNGJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
