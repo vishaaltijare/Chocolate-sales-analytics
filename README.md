@@ -10,8 +10,8 @@ The aim was to provide stakeholders with a single dashboard view of sales perfor
 
 📌 **Attached Files for Reference**
 
-📷 ![Dashboard Screenshot](Screenshots/Dashboard.png)  
-📷 ![Model Screenshot](Screenshots/Model.png)  
+📷 [Dashboard](Screenshots/Dashboard.png)  
+📷 [Model](Screenshots/Model.png)  
 📊 [Download ac-sample-data.xlsx](Dataset/ac-sample-data.xlsx)
 
 **Key Technical Achievements**
